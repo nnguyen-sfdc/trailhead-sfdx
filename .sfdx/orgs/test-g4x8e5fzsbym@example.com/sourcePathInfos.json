@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1515419575000,
+            "changeTime": 1515419575000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1515419575000,
+            "changeTime": 1515419575000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1515419575000,
+            "changeTime": 1515419575000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1515419919000,
+            "changeTime": 1515419919000,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10769,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "dab59bdf38dde3362100ea580a70f4e0740e7f5c"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10757,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "836d62a2e24b2196605b9f5da73c9b90c2a48ddb"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10757,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "8f5e315bb0fcc1768890c11decf1c1ae115bcbf2"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10773,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "314b317acbce1855ad0bea496dd4b11aa0d88689"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4932,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4596,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17636,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4592,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/pham.nguyen/work/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pham.nguyen/work/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1515420916000,
+            "changeTime": 1515420916000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
